@@ -1,1 +1,3 @@
 # exercism
+
+Progress on Exercism
